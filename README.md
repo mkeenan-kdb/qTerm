@@ -32,4 +32,4 @@ The command passed from the browser is simply executed on the server.
 
 4. Enjoy!
 
-    ![alt tag](https://github.com/Cobher/qTerm/blob/master/qTerm.gif)
+    ![alt tag](https://github.com/mkeenan-kdb/qTerm/blob/master/example.gif)
