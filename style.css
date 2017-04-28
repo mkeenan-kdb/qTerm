@@ -9,12 +9,11 @@ body{
 	/* height: 251px; */
 	overflow: auto;
 	background: #DDD;
-	color: #00EA1C;
+  color: #00EA1C;
 }
 body .mainCont{
 	border-radius: 10px;
 	font-family: 'Open Sans';
-	color: #00EA1C;
 	background: #000;
 	padding-bottom: 7px;
 }
@@ -23,7 +22,6 @@ body .heading{
 	text-align: center;
 	height: auto;
 	padding: 2px;
-	color: #00CC16;
 }
 div.box{
 	height: 253px;
